@@ -11,8 +11,6 @@ Desktop.ini
 # ===========================
 # Security - Environment & Secrets
 # ===========================
-.env
-.env.*
 !.env.example
 *.pem
 *.key
@@ -162,3 +160,4 @@ _bmad-output/
 .claude/
 /docs
 OPUS_ANALYSIS_AND_IDEAS.md
+config.bat
